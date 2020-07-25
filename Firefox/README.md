@@ -2,6 +2,8 @@
 
 Daha clean bir UI olsun diye kullaniyorum
 
+### How to setup
+
 `Topsites` > `Edit this site` > `Use a custom site...` > `Paste`
 
 Paste driect link to image. 
